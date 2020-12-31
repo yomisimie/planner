@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@symfony/stimulus-bridge": "^1.1.0",
+    "@symfony/webpack-encore": "^0.33.0",
+    "sass": "^1.30.0",
+    "sass-loader": "^10.0.0",
+    "stimulus": "^2.0.0",
+    "webpack-notifier": "^1.6.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bootstrap": "^4.5.3"
+  }
+}

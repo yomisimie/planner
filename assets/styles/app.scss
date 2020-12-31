@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:300,400,400i,600,700&display=swap');
+@import "~bootstrap";
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #f5f5f5;
+}
+aside {
+    &.sidebar {
+        max-width: 250px;
+        height: 100%;
+        a {
+            color: #fff;
+        }
+    }
+}
+main {
+    &.content {
+    }
+}
+.actions {
+    a {
+        text-decoration: none !important;
+        margin: 0 10px;
+    }
+}
